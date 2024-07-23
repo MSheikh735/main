@@ -1,0 +1,41 @@
+
+.al{
+  background-color: aqua;
+  width: 500px;
+}
+#p1{
+    background-color: bisque;
+    width: 500px;
+}
+.contanner{
+    background-color: beige;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+   display: flex;
+   justify-content:space-between;
+
+
+    
+
+}
+.box{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+    border: 2px sienna;
+}
+ #box1{
+    background-color: aqua;
+
+ }
+ #box2{
+    background-color: blue;
+ }
+ #box3{
+    background-color: brown;
+ }
+ #box4{
+    background-color: cadetblue;
+ }
